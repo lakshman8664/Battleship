@@ -36,13 +36,3 @@ The AI opponents make use of different strategies and difficulty levels:
 - **"Mediocre" CPU:** This AI opponent employs basic strategies to guess your ship locations. It's a great choice for practicing and learning the game.
 
 - **"Good" CPU:** The advanced AI opponent uses recursive and breadth-first search algorithms to optimize its guesses and improve its chances of victory. It provides a challenging experience for experienced players.
-
-## Contributions
-
-If you'd like to contribute to the project, feel free to fork the repository, make your changes, and submit a pull request. I welcome any enhancements, bug fixes, or new features that can improve the game.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Enjoy playing Battleship, and may the best strategist win!
