@@ -4,26 +4,14 @@ Welcome to my implementation of Battleship on GitHub! This version of Battleship
 
 ## Features
 
-- **Game Modes:** Choose from three different game modes: 
-  - Human vs Human: Play against another person on the same computer.
+- **Game Modes:** Choose from three different game simulations: 
+  - CPU vs CPU: A mini-game between two mediocre CPU players. Or, choose a 10-game match between a mediocre and an awful                 player, with no pauses. 
   - Human vs "Mediocre" CPU: Challenge an AI opponent with basic strategy.
   - Human vs "Good" CPU: Take on a more challenging AI opponent with advanced strategy.
 
 - **AI Opponents:** The AI opponents are powered by recursive and breadth-first search algorithms, offering varying levels of difficulty. The "Mediocre" CPU is a good starting point for beginners, while the "Good" CPU provides a more challenging experience.
 
 - **Data Structures:** Key data structures, such as stacks, arrays, and linked lists, are used to manage game boards and store in-game data efficiently.
-
-## How to Play
-
-1. Clone the repository to your local machine.
-
-2. Open the terminal and navigate to the project directory.
-
-3. Compile and run the game using the appropriate commands for your programming language. For example:
-   - If you're using Python: `python battleship.py`
-   - If you're using Java: `java Battleship`
-
-4. Follow the on-screen instructions to select your game mode and start playing.
 
 ## Gameplay
 
